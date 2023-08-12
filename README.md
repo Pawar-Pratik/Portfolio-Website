@@ -6,6 +6,7 @@ I created this portfolio a while ago, and aslo helped my fellow coders through o
 I aim to make technology accessible and enjoyable for everyone. </p>
 
 [Have a look...](https://pratikpawar.tech/)
+
 <br>
 
 <h3>credit:</h3> 
